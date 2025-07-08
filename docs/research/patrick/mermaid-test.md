@@ -1,5 +1,6 @@
 ---
 title: Mermaid Test
+position: 3
 ---
 
 Here is a sample Mermaid diagram:
