@@ -59,6 +59,8 @@ The following table shows the most frequently used libraries ranked by the numbe
 | 33   | `typeguard`                          | 3          |
 | 33   | `wandb`                              | 3          |
 
+
+
 ## Key Observations
 
 - **Most Popular**: `matplotlib` and `torch` are tied for first place, each used in 12 projects
